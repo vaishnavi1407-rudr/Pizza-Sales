@@ -6,7 +6,7 @@ This project provides a detailed analysis of pizza sales data using *SQL* for da
 
 - *Objective*: Analyze sales data to identify performance trends, customer behavior, and product insights.
 - *Tools Used*:
-  - SQL (MySQL/PostgreSQL)
+  - SQL (PostgreSQL)
   - Microsoft Excel (PivotTables, Charts, Slicers, Dashboards)
 
 ## ⚙️ Features
